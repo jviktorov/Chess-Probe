@@ -1,0 +1,8 @@
+LICENSE
+pyproject.toml
+src/chessprobe/__init__.py
+src/chessprobe.egg-info/PKG-INFO
+src/chessprobe.egg-info/SOURCES.txt
+src/chessprobe.egg-info/dependency_links.txt
+src/chessprobe.egg-info/requires.txt
+src/chessprobe.egg-info/top_level.txt
